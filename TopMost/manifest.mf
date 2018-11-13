@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.casaburo.utils.topmost/2
+OpenIDE-Module-Implementation-Version: 16
+OpenIDE-Module-Install: org/casaburo/utils/topmost/Installer.class
+OpenIDE-Module-Layer: org/casaburo/utils/topmost/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/casaburo/utils/topmost/Bundle.properties
+OpenIDE-Module-Requires: org.netbeans.api.javahelp.Help
+
